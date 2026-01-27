@@ -1,0 +1,16 @@
+myenv/
+.venv/
+rfi_data/
+__pypackages__/
+__pycache__/
+.weights.h5
+old/
+hera_rfi_data/
+measurement_sets
+results/
+.idea/
+hera_cal/
+hera_filters/
+sim/hera_gen/
+simulated_hera_data/
+
